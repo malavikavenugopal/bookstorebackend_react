@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malavikavenu914@gmail.com",
+      "password": "malu1234",
+      "confirmpassword": "malu1234",
+      "id": 1
+    },
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malavikavenu94@gmail.com",
+      "password": "snjy5678",
+      "confirmpassword": "snjy5678",
+      "id": 2
+    },
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malu@gmail.com",
+      "password": "1234567",
+      "confirmpassword": "1234567",
+      "id": 3
+    },
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malu145@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 4
+    },
+    {
+      "firstname": "Malavika",
+      "lastname": "Venugopal",
+      "email": "malu78@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "description": "Karma: A Yogi's Guide to Crafting Your Destiny NEW YORK TIMES, USA TODAY, and PUBLISHERS WEEKLY BESTSELLER , must-read book on spirituality and self-improvement by Sadhguru",
+      "author": "Sadhguru ",
+      "amount": "233",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "336",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "id": 40
+    },
+    {
+      "bname": "Ugly Love",
+      "description": "From Colleen Hoover, the #1 New York Times bestselling author of It Starts with Us and It Ends with Us, a heart-wrenching love story that proves attraction at first sight can be messy.\n\nWhen Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn't even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. Once their desires are out in the open, they realize they have the perfect set-up. He doesn't want love, she doesn't have time for love, so that just leaves the sex. Their arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her.",
+      "author": "Saranya Umakanthan ",
+      "amount": "274",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "336",
+      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
+      "id": 41
+    },
+    {
+      "bname": "Red, White & Royal Blue ",
+      "description": "When his mother became President, Alex Claremont-Diaz was promptly cast as the American equivalent of a young royal. Handsome, charismatic, genius--his image is pure millennial-marketing gold for the White House. There's only one problem: Alex has a beef with the actual prince, Henry, across the pond. And when the tabloids get hold of a photo involving an Alex-Henry altercation, U.S./British relations take a turn for the worse.\n\nHeads of family, state, and other handlers devise a plan for damage control: staging a truce between the two rivals. What at first begins as a fake, Instragramable friendship grows deeper, and more dangerous, than either Alex or Henry could have imagined. Soon Alex finds himself hurtling into a secret romance with a surprisingly unstuffy Henry that could derail the campaign and upend two nations and begs the question: Can love save the world after all? Where do we find the courage, and the power, to be the people we are meant to be? And how can we learn to let our true colors shine through? Casey McQuiston's Red, White & Royal Blue proves: true love isn't always diplomatic.",
+      "author": "Atria Books",
+      "amount": "655",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "448",
+      "url": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+      "id": 42
+    },
+    {
+      "bname": "The Magic of the Lost Temple",
+      "description": "Discover the magic of the lost temple Are you a curious reader, ready to explore the depths of the magic hidden in the lost temple of Karnataka? Are you ready to join Nooni as she travels around to discover the answers to her questions? If yes, then this book, 'The Magic of the Lost Temple' is a must have. Nooni is a city girl who is very surprised at the unexpected pace of life in her grandparent?s village in the state of Karnataka. Not being fazed with the turn of events, she engages herself in many of the odd jobs that are available in the village. She resorts to doing work like Papad making, organising enjoyable picnics, learning to ride a cycle and a long list of activities with her new found friends. Join Nooni as things get complex and she discovers something really exciting Things get far from exciting when Nooni comes across a very ancient stepwell that is located right in the middle of a forest. As she tries to discover the mystery behind this well, the story takes a drastic turn when she unravels things she didn't envisage before. Join Nooni as she unfolds the secrets linked to this stepwell along with her friends as they bask in the experience of a lifetime. Unfold the secrets hidden in the forest Join the very curious character of Nooni as she unfolds the mystery behind the stepwell. Her incessant urge to abstracting information is what leads her on this adventure. This much awaited book by Sudha Murty is indeed a heart-warming read. About the Author Sudha Murty is an honourable trustee of the Infosys Foundation USA and also acts as a chairperson of the highly reputed Infosys Foundation. She fulfilled her graduation from the Indian Institute of Science located in Bangalore, with a degree in Electrical Engineering. Her career began with TELCO where she worked as a development engineer. She has also been associated with the Bangalore University where she was a teacher of Computer Science. She is a credible writer in both English and Kannada. A columnist for Kannada and English dailies, she has over 156 titles and 24 books in her repertoire which includes non-fiction, novels, technical books, memoirs and travelogues. The Government of India has honored her with the coveted Padma Shri Award. She has also received 7 honorary doctorates from several universities in the country. The book is available online for convenient shopping. You can bag this book from A today by following a few easy steps.",
+      "author": "Sudha Murty",
+      "amount": "499",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "249",
+      "url": "https://99bookstores.com/cdn/shop/files/cd349c1b-25e6-4e6e-8830-c55fdf1d143d.jpg?v=1698341121&width=823",
+      "id": 43
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 1
+    },
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 2
+    },
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 3
+    },
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 4
+    },
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 6
+    },
+    {
+      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
+      "amount": "233",
+      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
+      "author": "Sadhguru ",
+      "id": 8
+    }
+  ]
+}
