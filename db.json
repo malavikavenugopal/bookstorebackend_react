@@ -10,17 +10,7 @@
     }
   ],
   "books": [
-    {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "description": "Karma: A Yogi's Guide to Crafting Your Destiny NEW YORK TIMES, USA TODAY, and PUBLISHERS WEEKLY BESTSELLER , must-read book on spirituality and self-improvement by Sadhguru",
-      "author": "Sadhguru ",
-      "amount": "233",
-      "category": "Best Sellers",
-      "lang": "English",
-      "pages": "336",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "id": 40
-    },
+   
     {
       "bname": "Ugly Love",
       "description": "From Colleen Hoover, the #1 New York Times bestselling author of It Starts with Us and It Ends with Us, a heart-wrenching love story that proves attraction at first sight can be messy.\n\nWhen Tate Collins meets airline pilot Miles Archer, she doesn't think it's love at first sight. They wouldn't even go so far as to consider themselves friends. The only thing Tate and Miles have in common is an undeniable mutual attraction. Once their desires are out in the open, they realize they have the perfect set-up. He doesn't want love, she doesn't have time for love, so that just leaves the sex. Their arrangement could be surprisingly seamless, as long as Tate can stick to the only two rules Miles has for her.",
@@ -53,6 +43,105 @@
       "pages": "249",
       "url": "https://99bookstores.com/cdn/shop/files/cd349c1b-25e6-4e6e-8830-c55fdf1d143d.jpg?v=1698341121&width=823",
       "id": 43
+    },
+    {
+      "bname": "Iron Flame",
+      "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+      "author": "Rebecca Yarros",
+      "amount": "299",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "250",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+      "id": 44
+    },
+    {
+      "bname": " Resurrection Walk",
+      "description": "The seventh book in the Lincoln Lawyer series. Haller and Bosch team up to prove the innocence of a woman in prison for killing her husband.",
+      "author": "Michael Connelly",
+      "amount": "199",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "235",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780316563765.jpg",
+      "id": 45
+    },
+    {
+      "bname": "The Exchange",
+      "description": "In a sequel to “The Firm,” Mitch McDeere, who is now a partner at the world’s largest law firm, gets caught up in a sinister plot.",
+      "author": "John Grisham",
+      "amount": "150",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "190",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385548953.jpg",
+      "id": 46
+    },
+    {
+      "bname": "Bookshops & Bonedust",
+      "description": "In a prequel to “Legends & Lattes,\" an orc who was hurt during a battle winds up in a sleepy beach town called Murk.",
+      "author": "Travis Baldree",
+      "amount": "290",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "120",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250886101.jpg",
+      "id": 47
+    },
+    {
+      "bname": "The Secret",
+      "description": "The 28th book in the Jack Reacher series. It’s 1992 and Reacher looks into the cause of a string of mysterious deaths.",
+      "author": "by Lee Child and Andrew Child",
+      "amount": "399",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "290",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781984818584.jpg",
+      "id": 48
+    },
+    {
+      "bname": "Dirty Thirty",
+      "description": "The 30th book in the Stephanie Plum series. Plum tracks a local jeweler’s former security guard and has an overnight stakeout with relatives.",
+      "author": " Janet Evanovich",
+      "amount": "230",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "135",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781668003091.jpg",
+      "id": 49
+    },
+    {
+      "bname": "Lessons in Chemistry",
+      "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+      "author": "Bonnie Garmus",
+      "amount": "120",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "290",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+      "id": 50
+    },
+    {
+      "bname": "Love Redesigned",
+      "description": "An interior designer and a billionaire who were childhood rivals have an attraction to each other.",
+      "author": " Lauren Asher",
+      "amount": "320",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "200",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781728292137.jpg",
+      "id": 51
+    },
+    {
+      "bname": "IceBreaker",
+      "description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+      "author": "Hannah Grace",
+      "amount": "200",
+      "category": "Fiction Books",
+      "lang": "English",
+      "pages": "190",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+      "id": 52
     }
   ],
   "wishlist": [
@@ -78,20 +167,5 @@
       "id": 3
     }
   ],
-  "cart": [
-    {
-      "bname": "Red, White & Royal Blue ",
-      "amount": "655",
-      "url": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
-      "author": "Atria Books",
-      "id": 1
-    },
-    {
-      "bname": "Ugly Love",
-      "amount": "274",
-      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
-      "author": "Saranya Umakanthan ",
-      "id": 2
-    }
-  ]
+  "cart": []
 }
