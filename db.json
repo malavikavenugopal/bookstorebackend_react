@@ -7,38 +7,6 @@
       "password": "malu1234",
       "confirmpassword": "malu1234",
       "id": 1
-    },
-    {
-      "firstname": "Malavika",
-      "lastname": "Venugopal",
-      "email": "malavikavenu94@gmail.com",
-      "password": "snjy5678",
-      "confirmpassword": "snjy5678",
-      "id": 2
-    },
-    {
-      "firstname": "Malavika",
-      "lastname": "Venugopal",
-      "email": "malu@gmail.com",
-      "password": "1234567",
-      "confirmpassword": "1234567",
-      "id": 3
-    },
-    {
-      "firstname": "Malavika",
-      "lastname": "Venugopal",
-      "email": "malu145@gmail.com",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "id": 4
-    },
-    {
-      "firstname": "Malavika",
-      "lastname": "Venugopal",
-      "email": "malu78@gmail.com",
-      "password": "123456",
-      "confirmpassword": "123456",
-      "id": 5
     }
   ],
   "books": [
@@ -87,49 +55,43 @@
       "id": 43
     }
   ],
-  "wishlist": [],
-  "cart": [
+  "wishlist": [
     {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
+      "bname": "Ugly Love",
+      "amount": "274",
+      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
+      "author": "Saranya Umakanthan ",
       "id": 1
     },
     {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
+      "bname": "It Ends with Us",
+      "amount": "345",
+      "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037.jpg",
+      "author": "Atria Books",
       "id": 2
     },
     {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
+      "bname": "The Magic of the Lost Temple",
+      "amount": "499",
+      "url": "https://99bookstores.com/cdn/shop/files/cd349c1b-25e6-4e6e-8830-c55fdf1d143d.jpg?v=1698341121&width=823",
+      "author": "Sudha Murty",
       "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "bname": "Red, White & Royal Blue ",
+      "amount": "655",
+      "url": "https://www.bookswagon.com/productimages/images200/776/9781250316776.jpg",
+      "author": "Atria Books",
+      "id": 1
     },
     {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
-      "id": 4
-    },
-    {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
-      "id": 6
-    },
-    {
-      "bname": "Karma: A Yogi's Guide to Crafting Your Destiny",
-      "amount": "233",
-      "url": "https://www.bookswagon.com/productimages/images200/676/9780143452676.jpg",
-      "author": "Sadhguru ",
-      "id": 8
+      "bname": "Ugly Love",
+      "amount": "274",
+      "url": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/188/9781476753188.jpg",
+      "author": "Saranya Umakanthan ",
+      "id": 2
     }
   ]
 }
