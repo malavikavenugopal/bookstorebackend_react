@@ -142,6 +142,193 @@
       "pages": "190",
       "url": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
       "id": 52
+    },
+    {
+      "bname": "My name is barbra",
+      "description": "The EGOT winner chronicles her journey in show business and reveals details about some of her personal relationships.",
+      "author": " Barbra Streisand",
+      "amount": "129",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780525429524.jpg",
+      "id": 53
+    },
+    {
+      "bname": "My Effin' Life",
+      "description": "The musician known for his work with the band Rush chronicles his life as the child of Holocaust survivors and his time in the limelight.",
+      "author": "Geddy Lee with Daniel Richler",
+      "amount": "340",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "245",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780063159419.jpg",
+      "id": 54
+    },
+    {
+      "bname": "Ghosts of Honolulu",
+      "description": "The story of a Japanese American naval intelligence agent, a Japanese spy and events in Hawaii before the start of World War II.",
+      "author": " Mark Harmon and Leon Carroll Jr.",
+      "amount": "590",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593473986.jpg",
+      "id": 55
+    },
+    {
+      "bname": "Prequel",
+      "description": "The MSNBC host and co-author of “Bag Man” details a campaign to overthrow the U.S. government and install authoritarian rule prior to and during our involvement in World War II.",
+      "author": "Rachel Maddow",
+      "amount": "245",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "145",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593444511.jpg",
+      "id": 56
+    },
+    {
+      "bname": "The Wager",
+      "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+      "author": "David Grann",
+      "amount": "235",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "145",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+      "id": 57
+    },
+    {
+      "bname": "Elon Musk",
+      "description": "The author of “The Code Breaker” traces Musk’s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence.",
+      "author": "Walter Isaacson",
+      "amount": "300",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "250",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+      "id": 58
+    },
+    {
+      "bname": "Being Henry",
+      "description": "The Emmy Award-winning actor shares how playing roles such as the Fonz and his struggles with dyslexia affected his life.",
+      "author": "Henry Winkler with James Kaplan",
+      "amount": "345",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "245",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250888099.jpg",
+      "id": 59
+    },
+    {
+      "bname": "Unwoke",
+      "description": "The Republican senator from Texas shares his opinions on an assortment of American institutions.",
+      "author": "Ted Cruz",
+      "amount": "1245",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "650",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781684513628.jpg",
+      "id": 60
+    },
+    {
+      "bname": "OUTLIVE",
+      "description": "A look at recent scientific research on aging and longevity.",
+      "author": "Peter Attia with Bill Gifford",
+      "amount": "350",
+      "category": "Best Sellers",
+      "lang": "English",
+      "pages": "456",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+      "id": 61
+    },
+    {
+      "bname": "Palestine",
+      "description": "An account of the history of settler colonialism and resistance, based on untapped archival materials and reports.",
+      "author": "Rashid Khalidi",
+      "amount": "450",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "234",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250787651.jpg",
+      "id": 62
+    },
+    {
+      "bname": "The Story Teller",
+      "description": "A memoir by the musician known for his work with Foo Fighters and Nirvana",
+      "author": " Dave Grohl",
+      "amount": "234",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "134",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780063076099.jpg",
+      "id": 63
+    },
+    {
+      "bname": "Israel",
+      "description": "A chronological timeline of the country and personal anecdotes by the author.",
+      "author": "Noa Tishby",
+      "amount": "125",
+      "category": "Award Winners",
+      "lang": "English",
+      "pages": "345",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781982144944.jpg",
+      "id": 64
+    },
+    {
+      "bname": "All About Love",
+      "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+      "author": "bell hooks",
+      "amount": "450",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "350",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+      "id": 65
+    },
+    {
+      "bname": "Crying in H Mart",
+      "description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+      "author": " Michelle Zauner",
+      "amount": "459",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "389",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+      "id": 66
+    },
+    {
+      "bname": "Wonder",
+      "description": "A boy with a facial deformity starts schools",
+      "author": "R.J Palacio",
+      "amount": "299",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "340",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+      "id": 67
+    },
+    {
+      "bname": "Odder",
+      "description": "After a shark attack, Odder recuperates at the aquarium with the scientists who raised her.",
+      "author": " Katherine Applegate",
+      "amount": "450",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "234",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9781250147424.jpg",
+      "id": 68
+    },
+    {
+      "bname": "Just Because",
+      "description": "Wisdom about life’s contradictions.",
+      "author": "Matthew McConaughey",
+      "amount": "79",
+      "category": "Anime Comics",
+      "lang": "English",
+      "pages": "340",
+      "url": "https://storage.googleapis.com/du-prd/books/images/9780593622032.jpg",
+      "id": 69
     }
   ],
   "wishlist": [
